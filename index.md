@@ -33,6 +33,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 <h4 class="education">
   <i class="material-icons md-18">school</i>
   <a href="https://www.cau.ac.kr/">Chung-Ang University</a>, Seoul, Korea
+  <sup>2015 - 2020</sup>
 </h4>
 
 - **B.S.**, <a href="https://e3home.cau.ac.kr/">Electrical and Electronics Engineering</a>
