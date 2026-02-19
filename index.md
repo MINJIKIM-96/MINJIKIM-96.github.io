@@ -41,29 +41,31 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 <h4>RoboCup</h4>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+">
 
   <!-- Video 1 -->
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <iframe
-      src="https://www.youtube.com/embed/f_kx1I1h4io?start=2100"
-      title="RoboCup 2023 Highlight"
-      frameborder="0"
-      allowfullscreen
-      style="width: 100%; height: 300px; border-radius: 10px;">
-    </iframe>
-  </div>
+  <iframe
+    src="https://www.youtube.com/embed/f_kx1I1h4io?start=2100"
+    title="RoboCup 2023 Highlight"
+    frameborder="0"
+    allowfullscreen
+    style="width: 100%; aspect-ratio: 16 / 9; border-radius: 12px;">
+  </iframe>
 
   <!-- Video 2 -->
-  <div style="flex: 1 1 45%; min-width: 300px;">
-    <iframe
-      src="https://www.youtube.com/embed/4GZAo41-pws"
-      title="RoboCup 2023 Additional Video"
-      frameborder="0"
-      allowfullscreen
-      style="width: 100%; height: 300px; border-radius: 10px;">
-    </iframe>
-  </div>
+  <iframe
+    src="https://www.youtube.com/embed/4GZAo41-pws"
+    title="RoboCup 2023 Full Demo"
+    frameborder="0"
+    allowfullscreen
+    style="width: 100%; aspect-ratio: 16 / 9; border-radius: 12px;">
+  </iframe>
 
 </div>
 
