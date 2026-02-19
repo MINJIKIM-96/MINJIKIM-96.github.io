@@ -39,7 +39,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 ### Awards & Honors
 
-- **Oral Presentation**, AAAI 2025  
+- **Oral Paper**, AAAI 2025  
 - **Best Paper Award**, Korea Software Congress (KSC) 2025  
 - **Poster Presenter**, International CES 2024 (Seoul National University AI Institute)  
 - **Booth Presenter**, International CES 2024 (TOMORRO ROBOTICS)  
