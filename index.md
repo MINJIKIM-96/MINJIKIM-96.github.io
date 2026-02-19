@@ -39,7 +39,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 ### Project Videos
 
-<h4>RoboCup 2023 Bordeaux @Home DSPL – First Place</h4>
+<h4>RoboCup</h4>
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
