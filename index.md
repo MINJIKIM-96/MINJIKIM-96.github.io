@@ -46,7 +46,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 - **First Place**, RoboCup 2023 Bordeaux @Home DSPL  
 - **Spotlight Speaker & Scholarship**, IEEE ICRA Workshop 2023  
 - **Academic Excellence Scholarship**, 2023 (Seoul National University)  
-- **Second Prize, Best Paper Award**, 2022 Logistics Paper Competition, The Society of Logistics and Technology  
+- **Best Paper Award**, 2022 Logistics Paper Competition, The Society of Logistics and Technology  
 - **Academic Excellence Scholarship**, 2022 (Seoul National University)  
 - **Second Place**, RoboCup 2022 Sydney @Home DSPL  
 - **Second Place**, RoboCup 2019 Bangkok @Home DSPL  
