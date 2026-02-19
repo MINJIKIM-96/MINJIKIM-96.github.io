@@ -139,17 +139,16 @@ KCS 2017
 
 
 
-### Awards & Scholarships
+### Awards & Honors
 
-- [**Outstanding Doctoral Thesis Award**](https://cse.snu.ac.kr/community/news/1186) at Dept. of Computer Science and Engineering, Seoul National University, 2025 <!-- 2025.02.26 -->
-- [**Youlchon AI Star Fellowship**](https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=555) at Youlchon Foundation, Nongshim Group, 2024 <!-- 2024.09.12 -->
-- [**Animal Datathon Korea**](https://blog.naver.com/aidkr/222518300737) (2nd place, 2021) <!-- 2021.09.27 -->
-- [**The 27th Samsung Humantech Paper Award**](https://humantech.samsung.com/saitext/index.jsp) (Silver Prize in Signal Processing, 2021) <!-- 2021.01.29 -->
-- **Magna Cum Laude Honor** at Sogang University, 2018 <!-- 2018.02.20 -->
-- [**KSC 2017 Paper Award**](http://www.kiise.or.kr/conference/board/boardview.do?CC=KSC&CS=2017&PARENT_ID=011400&NUM=104) (Encouragement Award, 2018) <!-- 2018.02.06 -->
-- **Academic Excellence Scholarship** at Sogang University, 2017 and 2018
-- **Windows 10 IoT Core & Microsoft Azure for Microsoft IoT Solution Competition** (10th place, 2017)
-
+- **Poster Presenter**, International CES 2024  
+- **First Place**, RoboCup 2023 Bordeaux @Home DSPL  
+- **Oral Presentation & Scholarship**, IEEE ICRA Workshop 2023  
+- **Academic Excellence Scholarship**, 2023  
+- **Second Prize, Best Paper Award**, 2022 Logistics Paper Competition, The Society of Logistics and Technology  
+- **Academic Excellence Scholarship**, 2022  
+- **Second Place**, RoboCup 2022 Sydney @Home DSPL  
+- **Second Place**, RoboCup 2019 Bangkok @Home DSPL  
 
 <!--
 ### Development Projects
