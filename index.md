@@ -39,17 +39,17 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 ### Awards & Honors
 
+- **Oral Presentation**, AAAI 2025  
 - **Best Paper Award**, Korea Software Congress (KSC) 2025  
 - **Poster Presenter**, International CES 2024 (Seoul National University AI Institute)  
 - **Booth Presenter**, International CES 2024 (TOMORRO ROBOTICS)  
 - **First Place**, RoboCup 2023 Bordeaux @Home DSPL  
-- **Oral Presentation & Scholarship**, IEEE ICRA Workshop 2023  
-- **Academic Excellence Scholarship**, 2023 (Seoul National University) 
+- **Spotlight Speaker & Scholarship**, IEEE ICRA Workshop 2023  
+- **Academic Excellence Scholarship**, 2023 (Seoul National University)  
 - **Second Prize, Best Paper Award**, 2022 Logistics Paper Competition, The Society of Logistics and Technology  
 - **Academic Excellence Scholarship**, 2022 (Seoul National University)  
 - **Second Place**, RoboCup 2022 Sydney @Home DSPL  
 - **Second Place**, RoboCup 2019 Bangkok @Home DSPL  
-
 
 ### Publications
 
