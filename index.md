@@ -49,7 +49,13 @@ More recently, my work investigates how **human knowledge** and **structured pri
 - **Best Paper Award**, 2022 Logistics Paper Competition, The Society of Logistics and Technology  
 - **Academic Excellence Scholarship**, 2022 (Seoul National University)  
 - **Second Place**, RoboCup 2022 Sydney @Home DSPL  
-- **Second Place**, RoboCup 2019 Bangkok @Home DSPL  
+- **Second Place**, RoboCup 2019 Bangkok @Home DSPL
+- **University Innovation Support Scholarship**, Fall 2019  
+- **Creative Convergence Talent (CK-II) Scholarship**, Spring 2018  
+- **Academic Excellence Scholarship**, 2018  
+- **Creative Convergence Talent (CK-II) Scholarship**, Fall 2017  
+- **Creative Convergence Talent (CK-II) Scholarship**, Spring 2017  
+- **Specialization Program Scholarship (Industry-Academia Collaborative Learning Support)**, 2017   
 
 ### Publications
 
