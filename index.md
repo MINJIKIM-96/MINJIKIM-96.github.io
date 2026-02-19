@@ -2,40 +2,40 @@
 layout: default
 ---
 
-I am a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by **[Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/members/byoung-tak-zhang.html)**.
-I previously earned my M.S. in the Interdisciplinary Program in Brain Science at Seoul National University.
+I am a **Ph.D. candidate** in **Computer Science and Engineering** at **Seoul National University (SNU)**, advised by **[Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/members/byoung-tak-zhang.html)**. I previously earned my **M.S.** in the **Interdisciplinary Program in Brain Science** at **SNU**.
 
-My research centers on Reinforcement Learning, with applications spanning robotics, logistics automation, and defense systems. I design learning frameworks that enable autonomous agents to operate robustly in complex, dynamic, and adversarial environments.
+My research centers on **Reinforcement Learning (RL)**, with applications spanning **robotics**, **logistics automation**, and **defense systems**. I design learning frameworks that enable autonomous agents to operate robustly in **complex, dynamic, and adversarial environments**.
 
-More recently, my work investigates how human knowledge and structured priors can be incorporated into reinforcement learning to enhance learning efficiency, stability, and generalization. By integrating heuristic guidance, language-based reasoning, and structured supervision, I aim to bridge the gap between data-driven learning and human-level decision-making in intelligent robotic systems.
+More recently, my work investigates how **human knowledge** and **structured priors** can be incorporated into **RL** to enhance **learning efficiency**, **stability**, and **generalization**. By integrating **heuristic guidance**, **language-based reasoning**, and **structured supervision**, I aim to bridge the gap between **data-driven learning** and **human-level decision-making** in intelligent robotic systems.
 
 ### Education
 
 <h4 class="education">
   <i class="material-icons md-18">account_balance</i>
-  <a href="http://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea
-  <sup>2018.03 - 2025.02</sup>
+  <a href="https://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea
+  <sup>2022 - Present</sup>
 </h4>
 
-- Integrated M.S./Ph.D. student in [Computer Science and Engineering]
-- Cumulative GPA: 4.03 / 4.3 (4.23 / 4.5)
-- Advisor: **[Prof. Gunhee Kim](https://vision.snu.ac.kr/gunhee/)**
-- [**Outstanding Doctoral Thesis Award 🎓✨**](https://cse.snu.ac.kr/community/news/1186)
+- **Ph.D. Candidate**, <a href="https://cse.snu.ac.kr/en">Computer Science and Engineering</a>  
+- Advisor: **<a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Prof. Byoung-Tak Zhang</a>**
 
-[Computer Science and Engineering]: https://cse.snu.ac.kr/en
 
 <h4 class="education">
   <i class="material-icons md-18">school</i>
-  <a href="https://wwwe.sogang.ac.kr/wwwe/index_new.html">Sogang University</a>, Seoul, Korea
-  <sup>2014.03 - 2018.02</sup>
+  <a href="https://en.snu.ac.kr/">Seoul National University</a>, Seoul, Korea
+  <sup>2020 - 2022</sup>
 </h4>
 
-- B.S. in [Computer Science and Engineering]
-- Cumulative GPA: 3.58 / 4.3 (3.88 / 4.5), **Magna Cum Laude**
-- Advisor: **[Prof. Hyukjun Lee](http://ecl.sogang.ac.kr)**
+- **M.S.**, <a href="https://brainscience.snu.ac.kr/">Interdisciplinary Program in Brain Science</a>  
+- Advisor: **<a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Prof. Byoung-Tak Zhang</a>**
 
-[Computer Science and Engineering]: https://ecs.sogang.ac.kr/ecs/index_new.html
 
+<h4 class="education">
+  <i class="material-icons md-18">school</i>
+  <a href="https://www.cau.ac.kr/">Chung-Ang University</a>, Seoul, Korea
+</h4>
+
+- **B.S.**, <a href="https://e3home.cau.ac.kr/">Electrical and Electronics Engineering</a>
 
 
 ### Publications
