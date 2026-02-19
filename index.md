@@ -2,17 +2,12 @@
 layout: default
 ---
 
-Hello!
-I am an **AI Scientist** at the **Physical Intelligence Lab**, **LG AI Research**.
-Prior to joining LG, I was a Postdoctoral Researcher in CSE at Seoul National University, where I also earned my Ph.D. under the supervision of **[Prof. Gunhee Kim]([https://vision.snu.ac.kr/gunhee/](https://bi.snu.ac.kr/members/byoung-tak-zhang.html))**.
+I am a Ph.D. candidate in Computer Science and Engineering at Seoul National University, advised by **[Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/members/byoung-tak-zhang.html)**.
+I previously earned my M.S. in the Interdisciplinary Program in Brain Science at Seoul National University.
 
-My research focuses on **Visual Localization** and **3D Dense Captioning** for enhanced 3D scene understanding, with particular interest in: 
-(i) understanding complex scenes from images and point clouds, 
-(ii) effectively handling multi-modalities, 
-and (iii) achieving a comprehensive understanding of 3D scenes through natural language.
+My research centers on Reinforcement Learning, with applications spanning robotics, logistics automation, and defense systems. I design learning frameworks that enable autonomous agents to operate robustly in complex, dynamic, and adversarial environments.
 
-At LG AI Research, I am currently focusing on advancing Physical Intelligence to bridge the gap between AI and the physical world.
-
+More recently, my work investigates how human knowledge and structured priors can be incorporated into reinforcement learning to enhance learning efficiency, stability, and generalization. By integrating heuristic guidance, language-based reasoning, and structured supervision, I aim to bridge the gap between data-driven learning and human-level decision-making in intelligent robotic systems.
 
 ### Education
 
