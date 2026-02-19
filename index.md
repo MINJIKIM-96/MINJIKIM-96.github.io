@@ -37,13 +37,13 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 - **B.S.**, <a href="https://e3home.cau.ac.kr/">Electrical and Electronics Engineering</a>
 
-### Competition Video
+### Project Video
 
 <div style="max-width: 900px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px;">
     <iframe
-      src="https://www.youtube.com/embed/f_kx1I1h4io"
-      title="Competition Video"
+      src="https://www.youtube.com/embed/f_kx1I1h4io?start=2100"
+      title="RoboCup 2023 Highlight"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
