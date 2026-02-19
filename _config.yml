@@ -10,9 +10,9 @@ email: mjkim AT bi.snu.ac.kr
 #twitter:
 # github: https://github.com/minnjung
 linkedin: https://www.linkedin.com/in/minji-kim-7667763b0/
-google_analytics: UA-146496389-1
+# google_analytics: UA-146496389-1
 theme: jekyll-theme-minimal
-google_scholar: https://scholar.google.com/citations?user=nSwyFAMAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?hl=ko&user=lFGGPw0AAAAJ
 #semantic_scholar: https://www.semanticscholar.org/author/Minjung-Kim/2109022768
 
 plugins:
