@@ -52,7 +52,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 - **Second Place**, RoboCup 2019 Bangkok @Home DSPL
 - **University Innovation Support Scholarship**, Fall 2019  
 - **Creative Convergence Talent (CK-II) Scholarship**, Spring 2018  
-- **Academic Scholarship**, 2018  
+- **Academic Scholarship**, 2018 (Chung-ang University)
 - **Creative Convergence Talent (CK-II) Scholarship**, Fall 2017  
 - **Creative Convergence Talent (CK-II) Scholarship**, Spring 2017  
 - **Specialization Program Scholarship (Industry-Academia Collaborative Learning Support)**, 2017   
