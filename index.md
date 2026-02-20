@@ -129,7 +129,31 @@ Logistics Automation (UR5e with Vaccum gripper)
 
 </div>
 
+<h4 style="margin-top: 60px;">
+Artwork Generated via Reinforcement Learning
+</h4>
 
+<div style="
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 1100px;
+  margin: 20px auto;
+">
+
+  <img
+    src="{{ site.baseurl }}/assets/img/artwork1.gif"
+    alt="Artwork 1"
+    style="width:100%; border-radius:12px;"
+  >
+
+  <img
+    src="{{ site.baseurl }}/assets/img/artwork2.gif"
+    alt="Artwork 2"
+    style="width:100%; border-radius:12px;"
+  >
+
+</div>
 
 ### Publications
 
