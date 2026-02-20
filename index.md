@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a **Ph.D. candidate** in **Computer Science and Engineering** at **Seoul National University (SNU)**, advised by **[Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/members/byoung-tak-zhang.html)**. I previously earned my **M.S.** in the **Interdisciplinary Program in Brain Science** at **SNU**.
+I am a **Ph.D. candidate** in **Computer Science and Engineering** at **Seoul National University (SNU)**, advised by **[Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/members/byoung-tak-zhang.html)**. I previously earned my **M.S.** in the **Interdisciplinary Program in Neuroscience** at **SNU**.
 
 My research focuses on reinforcement learning (RL) for robotics and autonomous systems operating in complex and dynamic environments. I study how human knowledge and structured priors can be integrated into RL to improve learning efficiency, stability, and generalization.
 
