@@ -174,10 +174,27 @@ Journal of Logistics Science & Technology (JLST) 2023 (**Best paper award**)
 ICRA 2022
 <a class="code" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811858" target="_blank">[pdf]</a>
 
+- **Team Tidyboy at the WRS 2020: A Modular Software Framework for Home Service Robots** <br/>
+Taewoong Kang, Dongwoon Song, Jae-Bong Yi, Joonyoung Kim, 
+Chung-Yeon Lee, Youngjae Yoo, **Minji Kim**, Hyun-Jun Jo, 
+Byoung-Tak Zhang, Jaebok Song, Seung-Joon Yi <br/>
+Advanced Robotics, Vol. 36(17–18), 2022, pp. 836–849 <br/>
+<a class="code" href="https://scholar.google.com/scholar?oi=bibs&cluster=15449088437201431166&btnI=1&hl=ko" target="_blank">[pdf]</a>
+
+
 - **Reset-free Multi-agent Reinforcement Learning Using Reversibility Estimation** <br/>
 **Minji Kim**, Ganghun Lee, Byoung-Tak Zhang <br/>
 KCC 2022
 <a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11113610" target="_blank">[pdf]</a>
+
+- **RoboCup@Home 2021 Domestic Standard Platform League Winner** <br/>
+DongWoon Song, Taewoong Kang, Jaebong Yi, Joonyoung Kim, Taeyang Kim, 
+Chung-Yeon Lee, Je-Hwan Ryu, **Minji Kim**, HyunJun Jo, 
+Byoung-Tak Zhang, Jae-bok Song, Seung-Joon Yi <br/>
+Robot World Cup, Springer International Publishing, 2021 <br/>
+pp. 291–301 <br/>
+<a class="code" href="https://link.springer.com/chapter/10.1007/978-3-030-98682-7_24" target="_blank">[pdf]</a>
+
 
 - **Model-Based Curriculum Reinforcement Learning for Continuous Line Drwaing** <br/>
 Ganghun Lee, **Minji Kim**, Byoung-Tak Zhang <br/>
@@ -190,7 +207,7 @@ KCC 2021
 <a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583176" target="_blank">[pdf]</a>
 
 - **Implementation of Hands-free Autonomous Robot System usingBrain Computer Interface(BCI)** <br/>
-**Minji Kim**, Lee Jiyoon, Kibeom Kim, Kwee-BoSim <br/>
+**Minji Kim**, Lee Jiyoon, Kwee-BoSim <br/>
 KCC 2019
 <a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE08763756" target="_blank">[pdf]</a>
 
