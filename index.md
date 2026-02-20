@@ -27,7 +27,7 @@ My research focuses on reinforcement learning (RL) for robotics and autonomous s
   <sup>2020 - 2022</sup>
 </h4>
 
-- **M.S.**, <a href="https://brainscience.snu.ac.kr/">Interdisciplinary Program in Brain Science</a>  
+- **M.S.**, <a href="https://brainscience.snu.ac.kr/">Interdisciplinary Program in Neuroscience</a>  
 - Advisor: **<a href="https://bi.snu.ac.kr/members/byoung-tak-zhang.html">Prof. Byoung-Tak Zhang</a>**
 
 
