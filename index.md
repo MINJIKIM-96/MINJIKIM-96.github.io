@@ -189,6 +189,12 @@ KCC 2021
 KCC 2021
 <a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583176" target="_blank">[pdf]</a>
 
+- **Implementation of Hands-free Autonomous Robot System usingBrain Computer Interface(BCI)** <br/>
+**Minji Kim**, Lee Jiyoon, Kibeom Kim, Kwee-BoSim <br/>
+KCC 2019
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE08763756" target="_blank">[pdf]</a>
+
+
 ### Awards & Honors
 
 - **Oral Paper**, AAAI 2025  
