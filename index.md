@@ -40,7 +40,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 ### Project Videos
 
-<h4>RoboCup</h4>
+<h4>RoboCup@Home DSPL</h4>
 
 <div style="
   display: grid;
@@ -69,6 +69,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
   </iframe>
 
 </div>
+</div>
 
 
 ### Awards & Honors
@@ -76,7 +77,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 - **Oral Paper**, AAAI 2025  
 - **Best Paper Award**, Korea Software Congress (KSC) 2025  
 - **Poster Presenter**, International CES 2024 (Seoul National University AI Institute)  
-- **Booth Presenter**, International CES 2024 (TOMORRO ROBOTICS)  
+- **Booth Presenter**, International CES 2024 (Tommoro Robotics)  
 - **First Place**, RoboCup 2023 Bordeaux @Home DSPL  
 - **Spotlight Speaker & Scholarship**, IEEE ICRA Workshop 2023  
 - **Academic Excellence Scholarship**, 2023 (Seoul National University)  
