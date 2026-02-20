@@ -152,73 +152,63 @@ Logistics Automation (UR5e with Vaccum gripper)
 
 ### Publications
 
-- **Bi-directional Contextual Attention for 3D Dense Captioning** <br/>
-**Minjung Kim**, Hyung Suk Lim, Soonyoung Lee, Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
-ECCV 2024 (**Oral presentation**)
-<a class="code" href="https://arxiv.org/abs/2408.06662">[arXiv]</a>
-<a class="code" href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02804.pdf">[pdf]</a>
-<a class="code" href="https://eccv.ecva.net/virtual/2024/poster/114">[poster]</a>
-<a class="code" href="https://minnjung.github.io/BiCA">[HTML]</a>
+- **Recency-Biased Sampling for Up-to-Date Adaptation of Reinforcement Learning** <br/>
+**Ganghun Lee**, Minji Kim, Minsu Lee, Byoung-Tak Zhang <br/>
+KSC 2025 (**Best paper award**)
+<!-- <a class="code" href="NOT YET" target="_blank">[pdf]</a> -->
 
-- **Rethinking the Role of Queries in 3D Dense Captioning** <br/>
-**Minjung Kim**, Gunhee Kim <br/>
+- **Truncated Gaussian Policy for Debiased Continuous Control** <br/>
+**Ganghun Lee**, Minji Kim, Minsu Lee, Byoung-Tak Zhang <br/>
+AAAI 2025 (**Oral presentation**)
+<a class="code" href="https://ojs.aaai.org/index.php/AAAI/article/view/33988" target="_blank">[pdf]</a>
+
+- **Truncated Gaussian Policy Gradient for Bounded Continuous Action Space** <br/>
+**Ganghun Lee**, Minji Kim, Byoung-Tak Zhang <br/>
 KCC 2024
-<a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862160">[pdf]</a>
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861958" target="_blank">[pdf]</a>
 
-- **See It All: Contextualized Late Aggregation for 3D Dense Captioning** <br/>
-**Minjung Kim**, Hyung Suk Lim, Seung Hwan Kim, Soonyoung Lee, <br/>
-Bumsoo Kim<sup>\*</sup>, Gunhee Kim<sup>\*</sup> <br/>
-ACL 2024 Findings
-<a class="code" href="https://openreview.net/forum?id=NVhRn_B29i">[OpenReview]</a>
-<a class="code" href="https://arxiv.org/abs/2408.07648">[arXiv]</a>
-<a class="code" href="https://aclanthology.org/2024.findings-acl.202/">[pdf]</a>
-<a class="code" href="https://underline.io/events/466/posters/18354/poster/102446-see-it-all-contextualized-late-aggregation-for-3d-dense-captioning?tab=Video">[Underline]</a>
+- **Bottleneck-Aware Linear Augmentation for Robotic Imitation Learning** <br/>
+Minji Kim, **Ganghun Lee**, Hyunseo Kim, Minsu Lee, Byoung-Tak Zhang <br/>
+KCC 2024
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862161" target="_blank">[pdf]</a>
 
-- **EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization** <br/>
-**Minjung Kim**, Junseo Koo, Gunhee Kim <br/>
+- **Neural Collage Transfer: Artistic Reconstruction via Material Manipulation** <br/>
+**Ganghun Lee**, Minji Kim, Yunsu Lee, Minsu Lee, Byoung-Tak Zhang <br/>
 ICCV 2023
-<a class="code" href="http://arxiv.org/abs/2309.07471">[arXiv]</a>
-<a class="code" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_EP2P-Loc_End-to-End_3D_Point_to_2D_Pixel_Localization_for_Large-Scale_ICCV_2023_paper.pdf">[pdf]</a>
-<a class="code" href="https://github.com/minnjung/EP2P-Loc">[code]</a>
+<a class="code" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Neural_Collage_Transfer_Artistic_Reconstruction_via_Material_Manipulation_ICCV_2023_paper.pdf" target="_blank">[pdf]</a>
+<a class="code" href="https://github.com/northadventure/CollageRL">[github]</a>
 
-- **Indoor/Outdoor Transition Recognition Based on Door Detection** <br/>
-Seohyun Jeon, **Minjung Kim**, Seunghwan Park, Jaeyoung Lee <br/>
-UR 2022
-<a class="code" href="https://ieeexplore.ieee.org/abstract/document/9826236">[pdf]</a>
+- **H2RL: Transferring Heuristic Knowledge to a Reinforcement Learning Agent for Solving the Online 3D Bin Packing Problem** <br/>
+Minji Kim<sup>†</sup>, **Ganghun Lee**<sup>†</sup>, Minsu Lee, Byoung-Tak Zhang <br/>
+ICRA 2023 Workshop (**Spotlight**)
+<a class="code" href="https://transferabilityinrobotics.github.io/icra2023/spotlight/TRW08_abstract.pdf" target="_blank">[pdf]</a>
 
-- **Drop-Bottleneck: Learning Discrete Compressed Representation for Noise-Robust Exploration** <br/>
-Jaekyeom Kim, **Minjung Kim**, Dongyeon Woo, Gunhee Kim <br/>
-ICLR 2021
-<a class="code" href="https://openreview.net/forum?id=1rxHOBjeDUW">[OpenReview]</a>
-<a class="code" href="https://arxiv.org/abs/2103.12300">[arXiv]</a>
-<a class="code" href="https://openreview.net/pdf?id=1rxHOBjeDUW">[pdf]</a>
-<a class="code" href="https://iclr.cc/virtual/2021/poster/3127">[talk]</a>
-<a class="code" href="https://github.com/jaekyeom/drop-bottleneck">[code]</a>
+- **Reinforcement Learning with Heuristics for Buffer-Utilized Random Bin Packing Problem** <br/>
+Minji Kim, **Ganghun Lee**, Byoung-Tak Zhang <br/>
+Journal of Logistics Science & Technology (JLST) 2023 (**Best paper award**)
+<a class="code" href="https://koreascience.kr/article/JAKO202331061232757.page" target="_blank">[pdf]</a>
 
-- **Logo Detection and Recognition Algorithm using YOLO-v3 Model** <br/>
-**Minjung Kim**, Sungen Kim, Gunhee Kim <br/>
-CICS 2020
-<a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10492565">[pdf]</a>
+- **From Scratch to Sketch: Deep Decoupled Hierarchical Reinforcement Learning for Robotic Sketching Agent** <br/>
+**Ganghun Lee**, Minji Kim, Minsu Lee, Byoung-Tak Zhang <br/>
+ICRA 2022
+<a class="code" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811858" target="_blank">[pdf]</a>
 
-- **Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks** <br/>
-Youngjin Kim, **Minjung Kim**, Gunhee Kim <br/>
-ICLR 2018
-<a class="code" href="https://openreview.net/forum?id=rkO3uTkAZ">[OpenReview]</a>
-<a class="code" href="https://arxiv.org/abs/1803.01500">[arXiv]</a>
-<a class="code" href="https://openreview.net/pdf?id=rkO3uTkAZ">[pdf]</a>
-<a class="code" href="https://github.com/whyjay/memoryGAN">[code]</a>
+- **Reset-free Multi-agent Reinforcement Learning Using Reversibility Estimation** <br/>
+Minji Kim, **Ganghun Lee**, Byoung-Tak Zhang <br/>
+KCC 2022
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11113610" target="_blank">[pdf]</a>
 
-- **Machine Learning for Determining Duplicate Question** <br/>
-**Minjung Kim**, Yeongjoon Park, Hyung Suk Lim, Jihoon Yang <br/>
-KCS 2017
-<a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322773">[pdf]</a>
+- **Model-Based Curriculum Reinforcement Learning for Continuous Line Drwaing** <br/>
+**Ganghun Lee**, Minji Kim, Byoung-Tak Zhang <br/>
+KCC 2021
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583172" target="_blank">[pdf]</a>
 
-- **Sketch based Face Image Generation with Text Mapping** <br/>
-**Minjung Kim**, Hyung Suk Lim, Yeongjoon Park, Yeseul Joo, Myoung Wan Koo <br/>
-KCS 2017
-<a class="code" href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07322778">[pdf]</a>
+- **Reset-free Competitive reinforcement learning to learn robotic manipulation skills** <br/>
+Minji Kim, **Ganghun Lee**, Kibeom Kim, Minsu Lee, Byoung-Tak Zhang <br/>
+KCC 2021
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583176" target="_blank">[pdf]</a>
 
-
+<!--
 ### Experiences
 
 <h4 class="experiences">
@@ -251,18 +241,7 @@ KCS 2017
 
 
 
-### Awards & Honors
 
-- **Poster Presenter**, International CES 2024  
-- **First Place**, RoboCup 2023 Bordeaux @Home DSPL  
-- **Oral Presentation & Scholarship**, IEEE ICRA Workshop 2023  
-- **Academic Excellence Scholarship**, 2023  
-- **Second Prize, Best Paper Award**, 2022 Logistics Paper Competition, The Society of Logistics and Technology  
-- **Academic Excellence Scholarship**, 2022  
-- **Second Place**, RoboCup 2022 Sydney @Home DSPL  
-- **Second Place**, RoboCup 2019 Bangkok @Home DSPL  
-
-<!--
 ### Development Projects
 
 - **DeepGuider** <sup>2019.02 - 2023.04</sup> <a class="code" href="https://github.com/deepguider/DeepGuider">[code]</a> <br/>
