@@ -40,7 +40,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 ### Project Videos
 
-<h4>RoboCup@Home DSPL(HSR(Human Support Robot))</h4>
+<h4>RoboCup@Home DSPL(Human Support Robot)</h4>
 
 <div style="
   display: grid;
@@ -77,7 +77,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
   <video
     controls
     style="width: 100%; border-radius: 12px;">
-    <source src="/assets/videos/handai_demo.mp4" type="video/mp4">
+    <source src="/assets/img/handai_demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
