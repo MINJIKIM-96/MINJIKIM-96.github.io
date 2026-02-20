@@ -133,6 +133,14 @@ Logistics Automation (UR5e with Vaccum gripper)
 
 ### Publications
 
+- **Climb with SHERPA: Heuristic-Guided Reinforcement Learning via Segmented Experience Relay** <br/>
+ **Minji Kim**, Ganghun Lee, Minsu Lee, Byoung-Tak Zhang <br/>
+RA-L 2026 (Under reviewd)
+
+- **Heuristic Action Cycle Reinforcement Learning** <br/>
+ **Minji Kim**, Ganghun Lee, Minsu Lee, Byoung-Tak Zhang <br/>
+KSC 2025
+
 - **Recency-Biased Sampling for Up-to-Date Adaptation of Reinforcement Learning** <br/>
 Ganghun Lee, **Minji Kim**, Minsu Lee, Byoung-Tak Zhang <br/>
 KSC 2025 (**Best paper award**)
