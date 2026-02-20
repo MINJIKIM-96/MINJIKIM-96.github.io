@@ -78,7 +78,7 @@ RoboCup@Home DSPL (Human Support Robot)
 <!-- HandAI Section -->
 <!-- ============================= -->
 <h4 style="margin-top: 60px;">
-HandAI Project (UR5e with Allegro hand)
+HandAI Project (UR5e with Allegro hand and 2 finger gripper)
 </h4>
 
 <div style="
@@ -106,7 +106,7 @@ HandAI Project (UR5e with Allegro hand)
 <!-- Logistics Automation Section -->
 <!-- ============================= -->
 <h4 style="margin-top: 60px;">
-물류 자동화 (UR5e with Vaccum gripper)
+Logistics Automation (UR5e with Vaccum gripper)
 </h4>
 
 <div style="
