@@ -4,9 +4,10 @@ layout: default
 
 I am a **Ph.D. candidate** in **Computer Science and Engineering** at **Seoul National University (SNU)**, advised by **[Prof. Byoung-Tak Zhang](https://bi.snu.ac.kr/members/byoung-tak-zhang.html)**. I previously earned my **M.S.** in the **Interdisciplinary Program in Brain Science** at **SNU**.
 
-My research centers on **Reinforcement Learning (RL)**, with applications spanning **robotics**, **logistics automation**, and **defense systems**. I design learning frameworks that enable autonomous agents to operate robustly in **complex, dynamic, and adversarial environments**.
+My research focuses on reinforcement learning (RL) for robotics and autonomous systems operating in complex and dynamic environments. I study how human knowledge and structured priors can be integrated into RL to improve learning efficiency, stability, and generalization.
 
-More recently, my work investigates how **human knowledge** and **structured priors** can be incorporated into **RL** to enhance **learning efficiency**, **stability**, and **generalization**. By integrating **heuristic guidance**, **language-based reasoning**, and **structured supervision**, I aim to bridge the gap between **data-driven learning** and **human-level decision-making** in intelligent robotic systems.
+**Research Interests:**  
+`#ReinforcementLearning`  `#Robotics`  `#KnowledgeTransfer`
 
 ### Education
 
