@@ -40,48 +40,93 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 ### Project Videos
 
-<h4>RoboCup@Home DSPL(Human Support Robot)</h4>
+<!-- ============================= -->
+<!-- RoboCup Section -->
+<!-- ============================= -->
+<h4 style="margin-top: 40px;">
+RoboCup@Home DSPL (Human Support Robot)
+</h4>
 
 <div style="
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 20px;
-  max-width: 1100px;
-  margin: 0 auto;
-">
-
-  <!-- Video 1 -->
-  <iframe
-    src="https://www.youtube.com/embed/f_kx1I1h4io?start=2100"
-    title="RoboCup 2023 Highlight"
-    frameborder="0"
-    allowfullscreen
-    style="width: 100%; aspect-ratio: 16 / 9; border-radius: 12px;">
-  </iframe>
-
-  <!-- Video 2 -->
-  <iframe
-    src="https://www.youtube.com/embed/4GZAo41-pws"
-    title="RoboCup 2023 Full Demo"
-    frameborder="0"
-    allowfullscreen
-    style="width: 100%; aspect-ratio: 16 / 9; border-radius: 12px;">
-  </iframe>
-<h4 style="margin-top: 40px;">HandAI Project (UR5e with Allegro hand)</h4>
-
-<div style="
   max-width: 1100px;
   margin: 20px auto;
 ">
 
-  <video
-    controls
-    style="width: 100%; border-radius: 12px;">
-    <source src="/assets/img/handai_demo.mp4" type="video/mp4">
+  <iframe
+    src="https://www.youtube.com/embed/f_kx1I1h4io?start=2100&autoplay=1&mute=1&loop=1&playlist=f_kx1I1h4io"
+    allow="autoplay"
+    frameborder="0"
+    allowfullscreen
+    style="width:100%; aspect-ratio:16/9; border-radius:12px;">
+  </iframe>
+
+  <iframe
+    src="https://www.youtube.com/embed/4GZAo41-pws?autoplay=1&mute=1&loop=1&playlist=4GZAo41-pws"
+    allow="autoplay"
+    frameborder="0"
+    allowfullscreen
+    style="width:100%; aspect-ratio:16/9; border-radius:12px;">
+  </iframe>
+
+</div>
+
+
+<!-- ============================= -->
+<!-- HandAI Section -->
+<!-- ============================= -->
+<h4 style="margin-top: 60px;">
+HandAI Project (UR5e with Allegro hand)
+</h4>
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 1100px;
+  margin: 20px auto;
+">
+
+  <video autoplay muted loop playsinline
+    style="width:100%; border-radius:12px;">
+    <source src="{{ site.baseurl }}/assets/img/handai_demo1.mp4" type="video/mp4">
+  </video>
+
+  <video autoplay muted loop playsinline
+    style="width:100%; border-radius:12px;">
+    <source src="{{ site.baseurl }}/assets/img/handai_demo2.mp4" type="video/mp4">
   </video>
 
 </div>
-</div>
+
+
+<!-- ============================= -->
+<!-- Logistics Automation Section -->
+<!-- ============================= -->
+<h4 style="margin-top: 60px;">
+물류 자동화 (UR5e with Vaccum gripper)
+</h4>
+
+<div style="
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 1100px;
+  margin: 20px auto;
+">
+
+  <video autoplay muted loop playsinline
+    style="width:100%; border-radius:12px;">
+    <source src="{{ site.baseurl }}/assets/img/logistics1.mp4" type="video/mp4">
+  </video>
+
+  <video autoplay muted loop playsinline
+    style="width:100%; border-radius:12px;">
+    <source src="{{ site.baseurl }}/assets/img/logistics2.mp4" type="video/mp4">
+  </video>
+
 </div>
 
 
