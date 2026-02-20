@@ -91,12 +91,12 @@ HandAI Project (UR5e with Allegro hand and 2 finger gripper)
 
   <video autoplay muted loop playsinline
     style="width:100%; border-radius:12px;">
-    <source src="{{ site.baseurl }}/assets/img/handai_demo1.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/img/soup.mp4" type="video/mp4">
   </video>
 
   <video autoplay muted loop playsinline
     style="width:100%; border-radius:12px;">
-    <source src="{{ site.baseurl }}/assets/img/handai_demo2.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/img/handai_demo.mp4" type="video/mp4">
   </video>
 
 </div>
@@ -119,12 +119,12 @@ Logistics Automation (UR5e with Vaccum gripper)
 
   <video autoplay muted loop playsinline
     style="width:100%; border-radius:12px;">
-    <source src="{{ site.baseurl }}/assets/img/logistics1.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/img/bpp.mp4" type="video/mp4">
   </video>
 
   <video autoplay muted loop playsinline
     style="width:100%; border-radius:12px;">
-    <source src="{{ site.baseurl }}/assets/img/logistics2.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/img/conveyor_sim.mp4" type="video/mp4">
   </video>
 
 </div>
