@@ -130,6 +130,65 @@ Logistics Automation (UR5e with Vaccum gripper)
 </div>
 
 
+
+### Publications
+
+- **Recency-Biased Sampling for Up-to-Date Adaptation of Reinforcement Learning** <br/>
+Ganghun Lee, **Minji Kim**, Minsu Lee, Byoung-Tak Zhang <br/>
+KSC 2025 (**Best paper award**)
+<!-- <a class="code" href="NOT YET" target="_blank">[pdf]</a> -->
+
+- **Truncated Gaussian Policy for Debiased Continuous Control** <br/>
+Ganghun Lee, **Minji Kim**, Minsu Lee, Byoung-Tak Zhang <br/>
+AAAI 2025 (**Oral presentation**)
+<a class="code" href="https://ojs.aaai.org/index.php/AAAI/article/view/33988" target="_blank">[pdf]</a>
+
+- **Truncated Gaussian Policy Gradient for Bounded Continuous Action Space** <br/>
+  Ganghun Lee, **Minji Kim**, Byoung-Tak Zhang <br/>
+KCC 2024
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861958" target="_blank">[pdf]</a>
+
+- **Bottleneck-Aware Linear Augmentation for Robotic Imitation Learning** <br/>
+**Minji Kim**, Ganghun Lee, Hyunseo Kim, Minsu Lee, Byoung-Tak Zhang <br/>
+KCC 2024
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862161" target="_blank">[pdf]</a>
+
+- **Neural Collage Transfer: Artistic Reconstruction via Material Manipulation** <br/>
+Ganghun Lee, **Minji Kim**, Yunsu Lee, Minsu Lee, Byoung-Tak Zhang <br/>
+ICCV 2023
+<a class="code" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Neural_Collage_Transfer_Artistic_Reconstruction_via_Material_Manipulation_ICCV_2023_paper.pdf" target="_blank">[pdf]</a>
+<a class="code" href="https://github.com/northadventure/CollageRL">[github]</a>
+
+- **H2RL: Transferring Heuristic Knowledge to a Reinforcement Learning Agent for Solving the Online 3D Bin Packing Problem** <br/>
+**Minji Kim<sup>†</sup>**, Ganghun Lee<sup>†</sup>, Minsu Lee, Byoung-Tak Zhang <br/>
+ICRA 2023 Workshop (**Spotlight**)
+<a class="code" href="https://transferabilityinrobotics.github.io/icra2023/spotlight/TRW08_abstract.pdf" target="_blank">[pdf]</a>
+
+- **Reinforcement Learning with Heuristics for Buffer-Utilized Random Bin Packing Problem** <br/>
+**Minji Kim**, Ganghun Lee, Byoung-Tak Zhang <br/>
+Journal of Logistics Science & Technology (JLST) 2023 (**Best paper award**)
+<a class="code" href="https://koreascience.kr/article/JAKO202331061232757.page" target="_blank">[pdf]</a>
+
+- **From Scratch to Sketch: Deep Decoupled Hierarchical Reinforcement Learning for Robotic Sketching Agent** <br/>
+  Ganghun Lee, **Minji Kim**, Minsu Lee, Byoung-Tak Zhang <br/>
+ICRA 2022
+<a class="code" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811858" target="_blank">[pdf]</a>
+
+- **Reset-free Multi-agent Reinforcement Learning Using Reversibility Estimation** <br/>
+**Minji Kim**, Ganghun Lee, Byoung-Tak Zhang <br/>
+KCC 2022
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11113610" target="_blank">[pdf]</a>
+
+- **Model-Based Curriculum Reinforcement Learning for Continuous Line Drwaing** <br/>
+Ganghun Lee, **Minji Kim**, Byoung-Tak Zhang <br/>
+KCC 2021
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583172" target="_blank">[pdf]</a>
+
+- **Reset-free Competitive reinforcement learning to learn robotic manipulation skills** <br/>
+**Minji Kim**, Ganghun Lee, Kibeom Kim, Minsu Lee, Byoung-Tak Zhang <br/>
+KCC 2021
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583176" target="_blank">[pdf]</a>
+
 ### Awards & Honors
 
 - **Oral Paper**, AAAI 2025  
@@ -150,63 +209,6 @@ Logistics Automation (UR5e with Vaccum gripper)
 - **Creative Convergence Talent (CK-II) Scholarship**, Spring 2017  
 - **Specialization Program Scholarship (Industry-Academia Collaborative Learning Support)**, 2017   
 
-### Publications
-
-- **Recency-Biased Sampling for Up-to-Date Adaptation of Reinforcement Learning** <br/>
-**Ganghun Lee**, Minji Kim, Minsu Lee, Byoung-Tak Zhang <br/>
-KSC 2025 (**Best paper award**)
-<!-- <a class="code" href="NOT YET" target="_blank">[pdf]</a> -->
-
-- **Truncated Gaussian Policy for Debiased Continuous Control** <br/>
-**Ganghun Lee**, Minji Kim, Minsu Lee, Byoung-Tak Zhang <br/>
-AAAI 2025 (**Oral presentation**)
-<a class="code" href="https://ojs.aaai.org/index.php/AAAI/article/view/33988" target="_blank">[pdf]</a>
-
-- **Truncated Gaussian Policy Gradient for Bounded Continuous Action Space** <br/>
-**Ganghun Lee**, Minji Kim, Byoung-Tak Zhang <br/>
-KCC 2024
-<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11861958" target="_blank">[pdf]</a>
-
-- **Bottleneck-Aware Linear Augmentation for Robotic Imitation Learning** <br/>
-Minji Kim, **Ganghun Lee**, Hyunseo Kim, Minsu Lee, Byoung-Tak Zhang <br/>
-KCC 2024
-<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862161" target="_blank">[pdf]</a>
-
-- **Neural Collage Transfer: Artistic Reconstruction via Material Manipulation** <br/>
-**Ganghun Lee**, Minji Kim, Yunsu Lee, Minsu Lee, Byoung-Tak Zhang <br/>
-ICCV 2023
-<a class="code" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Neural_Collage_Transfer_Artistic_Reconstruction_via_Material_Manipulation_ICCV_2023_paper.pdf" target="_blank">[pdf]</a>
-<a class="code" href="https://github.com/northadventure/CollageRL">[github]</a>
-
-- **H2RL: Transferring Heuristic Knowledge to a Reinforcement Learning Agent for Solving the Online 3D Bin Packing Problem** <br/>
-Minji Kim<sup>†</sup>, **Ganghun Lee**<sup>†</sup>, Minsu Lee, Byoung-Tak Zhang <br/>
-ICRA 2023 Workshop (**Spotlight**)
-<a class="code" href="https://transferabilityinrobotics.github.io/icra2023/spotlight/TRW08_abstract.pdf" target="_blank">[pdf]</a>
-
-- **Reinforcement Learning with Heuristics for Buffer-Utilized Random Bin Packing Problem** <br/>
-Minji Kim, **Ganghun Lee**, Byoung-Tak Zhang <br/>
-Journal of Logistics Science & Technology (JLST) 2023 (**Best paper award**)
-<a class="code" href="https://koreascience.kr/article/JAKO202331061232757.page" target="_blank">[pdf]</a>
-
-- **From Scratch to Sketch: Deep Decoupled Hierarchical Reinforcement Learning for Robotic Sketching Agent** <br/>
-**Ganghun Lee**, Minji Kim, Minsu Lee, Byoung-Tak Zhang <br/>
-ICRA 2022
-<a class="code" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9811858" target="_blank">[pdf]</a>
-
-- **Reset-free Multi-agent Reinforcement Learning Using Reversibility Estimation** <br/>
-Minji Kim, **Ganghun Lee**, Byoung-Tak Zhang <br/>
-KCC 2022
-<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11113610" target="_blank">[pdf]</a>
-
-- **Model-Based Curriculum Reinforcement Learning for Continuous Line Drwaing** <br/>
-**Ganghun Lee**, Minji Kim, Byoung-Tak Zhang <br/>
-KCC 2021
-<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583172" target="_blank">[pdf]</a>
-
-- **Reset-free Competitive reinforcement learning to learn robotic manipulation skills** <br/>
-Minji Kim, **Ganghun Lee**, Kibeom Kim, Minsu Lee, Byoung-Tak Zhang <br/>
-KCC 2021
-<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10583176" target="_blank">[pdf]</a>
 
 <!--
 ### Experiences
