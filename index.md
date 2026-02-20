@@ -144,13 +144,11 @@ Artwork Generated via Reinforcement Learning
   <img
     src="{{ site.baseurl }}/assets/img/artwork1.gif"
     alt="Artwork 1"
-    style="width:100%; border-radius:12px;"
   >
 
   <img
     src="{{ site.baseurl }}/assets/img/artwork2.gif"
     alt="Artwork 2"
-    style="width:100%; border-radius:12px;"
   >
 
 </div>
