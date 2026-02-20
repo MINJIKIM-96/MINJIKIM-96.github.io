@@ -78,7 +78,6 @@ More recently, my work investigates how **human knowledge** and **structured pri
     controls
     style="width: 100%; border-radius: 12px;">
     <source src="/assets/img/handai_demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 
 </div>
