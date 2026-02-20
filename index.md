@@ -159,6 +159,16 @@ ICCV 2023
 <a class="code" href="https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Neural_Collage_Transfer_Artistic_Reconstruction_via_Material_Manipulation_ICCV_2023_paper.pdf" target="_blank">[pdf]</a>
 <a class="code" href="https://github.com/northadventure/CollageRL">[github]</a>
 
+- **Self-Playing Reinforcement Learning Framework for Starcraft 2 Mini-Game** <br/>
+Moonhoen Lee, Hyunseo Kim, **Minji Kim**, Juno Kim, Hye Jung Yoon, Byoung-Tak Zhang <br/>
+KSC 2023
+<a class="code" href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11705081&width=1512" target="_blank">[pdf]</a>
+
+- **EXOT: Exit-aware Object Tracker for Safe Robotic Manipulation of Moving Object** <br/>
+Hyunseo Kim, Hye Jung Yoon, **Minji Kim**, Dong-Sig Han, Byoung-Tak Zhang <br/>
+ICRA 2023
+<a class="code" href="https://scholar.google.com/scholar?oi=bibs&cluster=11688001116835395499&btnI=1&hl=ko" target="_blank">[pdf]</a>
+
 - **H2RL: Transferring Heuristic Knowledge to a Reinforcement Learning Agent for Solving the Online 3D Bin Packing Problem** <br/>
 **Minji Kim<sup>†</sup>**, Ganghun Lee<sup>†</sup>, Minsu Lee, Byoung-Tak Zhang <br/>
 ICRA 2023 Workshop (**Spotlight**)
@@ -178,7 +188,7 @@ ICRA 2022
 Taewoong Kang, Dongwoon Song, Jae-Bong Yi, Joonyoung Kim, 
 Chung-Yeon Lee, Youngjae Yoo, **Minji Kim**, Hyun-Jun Jo, 
 Byoung-Tak Zhang, Jaebok Song, Seung-Joon Yi <br/>
-Advanced Robotics, Vol. 36(17–18), 2022, pp. 836–849 <br/>
+Advanced Robotics, Vol. 36(17–18), 2022, pp. 836–849
 <a class="code" href="https://scholar.google.com/scholar?oi=bibs&cluster=15449088437201431166&btnI=1&hl=ko" target="_blank">[pdf]</a>
 
 
@@ -191,8 +201,7 @@ KCC 2022
 DongWoon Song, Taewoong Kang, Jaebong Yi, Joonyoung Kim, Taeyang Kim, 
 Chung-Yeon Lee, Je-Hwan Ryu, **Minji Kim**, HyunJun Jo, 
 Byoung-Tak Zhang, Jae-bok Song, Seung-Joon Yi <br/>
-Robot World Cup, Springer International Publishing, 2021 <br/>
-pp. 291–301 <br/>
+Robot World Cup, Springer International Publishing, 2021,pp. 291–301
 <a class="code" href="https://link.springer.com/chapter/10.1007/978-3-030-98682-7_24" target="_blank">[pdf]</a>
 
 
