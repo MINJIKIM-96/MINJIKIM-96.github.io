@@ -40,7 +40,7 @@ More recently, my work investigates how **human knowledge** and **structured pri
 
 ### Project Videos
 
-<h4>RoboCup@Home DSPL</h4>
+<h4>RoboCup@Home DSPL(HSR(Human Support Robot))</h4>
 
 <div style="
   display: grid;
@@ -67,7 +67,21 @@ More recently, my work investigates how **human knowledge** and **structured pri
     allowfullscreen
     style="width: 100%; aspect-ratio: 16 / 9; border-radius: 12px;">
   </iframe>
+<h4 style="margin-top: 40px;">HandAI Project (UR5e with Allegro hand)</h4>
 
+<div style="
+  max-width: 1100px;
+  margin: 20px auto;
+">
+
+  <video
+    controls
+    style="width: 100%; border-radius: 12px;">
+    <source src="/assets/videos/handai_demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+</div>
 </div>
 </div>
 
