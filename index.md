@@ -159,7 +159,8 @@ Artwork Generated via Reinforcement Learning
 ### Publications
 
 - **Climb with SHERPA: Heuristic-Guided Reinforcement Learning via Segmented Experience Relay** <br/>
- **Minji Kim**, Ganghun Lee, Minsu Lee, Byoung-Tak Zhang <br/> (Under review)
+ **Minji Kim**, Ganghun Lee, Minsu Lee, Byoung-Tak Zhang <br/>
+ RA-L 2026
 
 - **Heuristic Action Cycle Reinforcement Learning** <br/>
  **Minji Kim**, Ganghun Lee, Minsu Lee, Byoung-Tak Zhang <br/>
